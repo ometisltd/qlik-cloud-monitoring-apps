@@ -21,6 +21,7 @@ Monitoring apps may be designed for single or multiple tenant deployments, and a
 | [Entitlement Analyzer](https://github.com/qlik-oss/qlik-cloud-entitlement-analyzer)                                                                                             | Single tenant, Multiple tenant | User                          |
 | [Reload Analyzer](https://github.com/qlik-oss/qlik-cloud-reload-analyzer)                                                                                                       | Single tenant, Multiple tenant | User, Capacity                |
 | [OEM Dashboard](https://github.com/qlik-oss/qlik-cloud-oem-dashboard)                                                                                                           | Multiple tenant                | User                          |
+| [Snowflake Monitor](https://github.com/ometisltd/snowflake_monitor)                                                                                                           | Single tenant                | User, Capacity                          |
 
 If you are looking for more information on Qlik monitoring apps, including Client-Managed monitoring apps,
 please review [this community article](https://community.qlik.com/t5/Official-Support-Articles/The-Qlik-Sense-Monitoring-Applications-for-Cloud-and-On-Premise/ta-p/1822454).

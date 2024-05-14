@@ -52,5 +52,12 @@
         "qcmaInstaller": false,
         "oemInstaller": true,
         "subscriptionTypes": ["user"]
+    },
+    {
+        "id": 100,
+        "name": "Qlik Snowflake Monitor",
+        "version": "v1.0.0",
+        "source": "https://github.com/ometisltd/snowflake_monitor/releases/download/v1.0.0/Qlik.Snowflake.Monitor.qvf",
+        "subscriptionTypes": ["user","capacity"]
     }
 ]
